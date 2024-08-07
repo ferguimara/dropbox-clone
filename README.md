@@ -1,3 +1,24 @@
+# Dropbox Clone
+
+## Introduction
+
+I decided to build a Dropbox clone because I wanted to explore using Google Firebase, Google Firestore, and some React drag-and-drop features while also reinforcing my React fundamentals. Additionally, I recently learned about Clerk's authentication tools and was eager to see how seamlessly they could be integrated. This app was a lot of fun to build. It features full authentication, allowing you to store, rename, and delete multiple files.
+
+## Tools Used
+
+- **NEXT.JS 14**: A React framework for building web applications.
+- **React**: A JavaScript library for building user interfaces.
+- **Clerk**: A user authentication solution for React applications.
+- **Shadcn**: A customizable component library.
+- **Firebase**: A platform for building web and mobile applications.
+- **Firestore**: A scalable NoSQL cloud database.
+- **React Hot Toasts**: A library for displaying toasts in React.
+- **Drag/Drop**: A feature for intuitive file management.
+- **CRUD**: Create, Read, Update, Delete operations.
+- **TypeScript**: A typed superset of JavaScript.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
